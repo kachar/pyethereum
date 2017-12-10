@@ -33,9 +33,9 @@ setup(
     install_requires=install_requires,
     tests_require=tests_require,
     dependency_links=dependency_links,
-    setup_requires=[
+    #setup_requires=[
         #    'pytest-runner==2.7'
-    ],
+    #],
     version=version,
     classifiers=[
         'Intended Audience :: Developers',
